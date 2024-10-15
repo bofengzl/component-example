@@ -16,13 +16,10 @@
 - node >= 16.20.2
 - pnpm >=8.14.1
 
-## 安装
+## 安装依赖
 ```bash
 # pnpm
 pnpm install
-
-# pnpm
-pnpm install --shamefully-hoist
 ```
 
 ## 运行
