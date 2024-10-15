@@ -10,8 +10,15 @@
   },
   "devDependencies": {
     "@nuxt/devtools": "^1.0.3",
+    "@unocss/nuxt": "^0.63.4",
     "nuxt": "^3.8.2",
+    "unocss": "^0.63.4",
     "vue": "^3.3.8",
     "vue-router": "^4.2.5"
+  },
+  "dependencies": {
+    "@nuxtjs/i18n": "^8.5.5",
+    "less": "^4.2.0",
+    "less-loader": "^12.2.0"
   }
 }
