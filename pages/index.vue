@@ -1,5 +1,5 @@
 <template>
-  <div class="p-10px">
+  <div class="p-10px min-h-screen bg-gray-50 box-border">
     <ScrollBoxExample></ScrollBoxExample>
   </div>
 </template>
