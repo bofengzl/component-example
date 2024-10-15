@@ -10,7 +10,7 @@
 
 #### ScrollBox组件
 ##### 效果
-<video src='./assets/md/Tab-2024-10-15_18_04.mp4'></video>
+![alt text](./assets/md/Snipaste_2024-10-15_18-15-58.png)
 
 ## 环境
 - node >= 16.20.2
