@@ -1,48 +1,32 @@
-# Nuxt Example
+# 组件案例库
 
-Deploy your [Nuxt](https://nuxt.com) project to Vercel with zero configuration.
+## 介绍
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/vercel/tree/main/examples/nuxtjs&template=nuxtjs)
+这是一个基于 Nuxt3 和 Vite 的组件库，用于展示和测试组件。
 
-_Live Example: https://nuxtjs-template.vercel.app_
+## 特性
 
-Look at the [Nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
+### 组件
 
-## Setup
+#### ScrollBox组件
+##### 效果
+<video src='./assets/md/Tab-2024-10-15_18_04.mp4'></video>
 
-Make sure to install the dependencies:
+## 环境
+- node >= 16.20.2
+- pnpm >=8.14.1
 
+## 安装
 ```bash
-# yarn
-yarn
-
-# npm
-npm install
+# pnpm
+pnpm install
 
 # pnpm
 pnpm install --shamefully-hoist
 ```
 
-## Development Server
-
-Start the development server on http://localhost:3000
+## 运行
 
 ```bash
-npm run dev
+pnpm run dev
 ```
-
-## Production
-
-Build the application for production:
-
-```bash
-npm run build
-```
-
-Locally preview production build:
-
-```bash
-npm run preview
-```
-
-Checkout the [deployment documentation](https://nuxt.com/docs/getting-started/deployment#presets) for more information.
